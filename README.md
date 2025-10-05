@@ -86,8 +86,8 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
+   git clone https://github.com/tajagn01/Velorent-3D.git
+   cd Velorent-3D
    ```
 2. Install dependencies:
    ```bash
