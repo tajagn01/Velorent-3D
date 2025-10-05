@@ -1,6 +1,8 @@
 # Valorant Remastered
 
-Welcome to **Valorant Remastered**, a visually captivating and engaging web application built using **React**, **Tailwind CSS**, and **GSAP**. This project is a redesign of the Valorant website, featuring stunning animations and seamless user interactions.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status.svg)](https://app.netlify.com/sites/your-site-name/deploys)
+
+Welcome to **Valorant Remastered**, a visually captivating and engaging web application built using **React**, **Tailwind CSS**, and **GSAP**. This project is a redesign of the Valorant website, featuring stunning animations and seamless user interactions with optimized mobile video playback.
 
 ## 🎮 Project Overview
 

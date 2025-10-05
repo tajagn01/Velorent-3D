@@ -5,18 +5,21 @@ import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Story from "./components/Story";
+import MobileVideoHandler from "./components/MobileVideoHandler";
 
 const App = () => {
   return (
-    <main className="relative w-screen min-h-screen overflow-x-hidden">
-      <Navbar />
-      <Hero />
-      <About />
-      <Features />
-      <Story />
-      <Contact />
-      <Footer />
-    </main>
+    <MobileVideoHandler>
+      <main className="relative w-screen min-h-screen overflow-x-hidden">
+        <Navbar />
+        <Hero />
+        <About />
+        <Features />
+        <Story />
+        <Contact />
+        <Footer />
+      </main>
+    </MobileVideoHandler>
   );
 };
 

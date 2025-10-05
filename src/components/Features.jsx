@@ -47,6 +47,8 @@ const BentoCard = ({ src, title, description }) => {
         loop
         muted
         autoPlay
+        playsInline
+        preload="metadata"
         className="absolute top-0 left-0 object-cover object-center size-full"
       />
       <div className="relative z-10 flex flex-col justify-between p-5 size-full text-blue-50">
@@ -131,6 +133,8 @@ const Features = () => {
               loop
               autoPlay
               muted
+              playsInline
+              preload="metadata"
               className="object-cover object-center size-full"
             />
           </BentoTilt>
